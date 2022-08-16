@@ -1,0 +1,51 @@
+.projects {
+  position: relative;
+  height: 90%;
+  width: 25%;
+  border: 5px #29cfde solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-evenly;
+}
+
+.projects img {
+  position: relative;
+  height: 30%;
+  width: 80%;
+  border-radius: 15px;
+  align-self: center;
+}
+.projects .title-p {
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+.projects .description-div {
+  position: relative;
+  height: 30%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  align-self: center;
+}
+.projects .description-div p {
+  position: relative;
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 0;
+  padding: 0;
+}
+
+.projects a {
+  position: relative;
+  color: #ed8b17;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+}

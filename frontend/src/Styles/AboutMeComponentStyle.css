@@ -1,0 +1,41 @@
+#about-me {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#about-me .container {
+  position: relative;
+  width: 80%;
+  height: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#about-me .container div {
+  position: relative;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#about-me .container div p {
+  position: relative;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  line-height: 2;
+}
+
+#about-me .container div img {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
