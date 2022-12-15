@@ -1,16 +1,11 @@
 //dependencies
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 //components
-import LandingPage from './Pages/LandingPage';
-
-//styles
-import './App.css';
-
+import LandingPage from "./Pages/LandingPage";
 
 function App() {
-
   return (
     <BrowserRouter>
       <div className="App">
@@ -23,8 +18,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-
