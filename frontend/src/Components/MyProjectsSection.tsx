@@ -6,7 +6,7 @@ import "../Styles/Projects_TechnologiesSectionStyles.css";
 //assets
 import ecommerce_image from "../Assets/ecommerce.png";
 import foreignExchange_image from "../Assets/foreignexchange.png";
-import nftEcommerce_image from "../Assets/ecommerce.png";
+import nftEcommerce_image from "../Assets/nft-ecommerce.png";
 
 //component
 import ProjectComponent from "../Components/ProjectComponent";

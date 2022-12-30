@@ -169,7 +169,7 @@ const LandingPage = () => {
           </section>
         </div>
         <div id="footer">
-          <p style={{ marginLeft: "2.5%" }}>Contact me" 0950209903</p>
+          <p style={{ marginLeft: "2.5%" }}>Contact me: 0950209903</p>
           <p>ALL RIGHTS RESERVED &copy; TRISTAN JOHN P. GIRAO 2022</p>
           <div style={{ marginRight: "2.5%" }}>
             <p>My Github Repo:</p>
